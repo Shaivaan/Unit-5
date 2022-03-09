@@ -1,0 +1,59 @@
+{
+  "groceries": [
+    {
+      "title": "Chips",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "Kukrkure",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Oreo",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Butter",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Sandwich",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Phapda",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Jalebi",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Chowmein",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "Noodles",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "Maggie",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "Naan",
+      "status": false,
+      "id": 11
+    }
+  ]
+}
