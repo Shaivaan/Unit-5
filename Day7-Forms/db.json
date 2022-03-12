@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "username": "shivam",
+      "age": "32",
+      "address": "SADAFSAF",
+      "salary": "25000",
+      "department": "technical",
+      "marital": false,
+      "id": 1
+    },
+    {
+      "username": "shivanshu",
+      "age": "32",
+      "address": "SADAFSAF",
+      "salary": "25000",
+      "department": "technical",
+      "marital": true,
+      "id": 2
+    },
+    {
+      "username": "arpit",
+      "age": "32",
+      "address": "SADAFSAF",
+      "salary": "25000",
+      "department": "technical",
+      "marital": true,
+      "id": 3
+    },
+    {
+      "username": "omkar",
+      "age": "32",
+      "address": "SADAFSAF",
+      "salary": "25000",
+      "department": "technical",
+      "marital": true,
+      "id": 4
+    },
+    {
+      "username": "amaresh",
+      "age": "32",
+      "address": "SADAFSAF",
+      "salary": "25000",
+      "department": "technical",
+      "marital": true,
+      "id": 5
+    },
+    {
+      "username": "Maali",
+      "age": "32",
+      "address": "SADAFSAF",
+      "salary": "25000",
+      "department": "technical",
+      "marital": true,
+      "id": 6
+    },
+    {
+      "username": "shivam",
+      "age": "32",
+      "address": "SADAFSAF",
+      "salary": "25000",
+      "department": "technical",
+      "marital": true,
+      "id": 7
+    },
+    {
+      "username": "shivam",
+      "age": "32",
+      "address": "SADAFSAF",
+      "salary": "25000",
+      "department": "technical",
+      "marital": true,
+      "id": 8
+    },
+    {
+      "username": "shivam",
+      "age": "32",
+      "address": "SADAFSAF",
+      "salary": "25000",
+      "department": "technical",
+      "marital": true,
+      "id": 9
+    }
+  ]
+}
