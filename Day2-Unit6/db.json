@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "dsa",
+      "age": "546",
+      "dob": "2022-04-05",
+      "residence": "ds",
+      "address": "ds",
+      "pincode": "dsa",
+      "id": 1
+    },
+    {
+      "name": "sd",
+      "age": "54",
+      "dob": "2022-04-06",
+      "residence": null,
+      "address": null,
+      "pincode": 0,
+      "id": 2
+    },
+    {
+      "name": "sd",
+      "age": "54",
+      "dob": "2022-04-06",
+      "residence": "ds",
+      "address": "das",
+      "pincode": "54",
+      "id": 3
+    }
+  ]
+}
