@@ -1,0 +1,9 @@
+#nav{
+    display: flex;
+    justify-content: space-around;
+
+}
+#nav div:hover{
+    cursor: pointer;
+    
+}

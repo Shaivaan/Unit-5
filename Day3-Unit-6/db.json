@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "email": "shivanshu_fw13_072@masai.school",
+      "password": "dsad",
+      "username": "shivam",
+      "mobile": "8630975894",
+      "id": 1
+    },
+    {
+      "email": "ghotaklala@gmail.com",
+      "password": "dsad",
+      "username": "maayu",
+      "mobile": "8630975894",
+      "id": 2
+    },
+    {
+      "email": "mayank@gmail.com",
+      "password": "dsaddsa",
+      "username": "maayul",
+      "mobile": "8630975894",
+      "id": 3
+    }
+  ]
+}
