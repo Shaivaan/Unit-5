@@ -1,0 +1,61 @@
+{
+  "user": [
+    {
+      "email": "shivanshu_fw13_072@masai.school",
+      "password": "dsad",
+      "mobile": "8630975894",
+      "username": "shivam",
+      "unique": 1649779701117,
+      "id": 1
+    },
+    {
+      "email": "mayank@gmail.com",
+      "password": "dsad",
+      "mobile": "8630975894",
+      "username": "shivam",
+      "unique": 1649780382867,
+      "id": 2
+    },
+    {
+      "email": "ghotaklala@gmail.com",
+      "password": "dsaddsa",
+      "mobile": "8630975894",
+      "username": "dagdu",
+      "unique": 1649780467994,
+      "id": 3
+    }
+  ],
+  "todo": [
+    {
+      "title": "Kro",
+      "description": "Study Hard",
+      "subtask": [
+        "Math",
+        "Science",
+        "History"
+      ],
+      "tags": "Personal",
+      "unique": 1649779701117,
+      "status": "todo",
+      "id": 6
+    },
+    {
+      "title": "Krdo",
+      "description": "Kror",
+      "subtask": "Subtaks",
+      "tags": "Others",
+      "unique": 1649779701117,
+      "status": "progress",
+      "id": 7
+    },
+    {
+      "title": "Hasd",
+      "description": "sdasd",
+      "subtask": "dsad",
+      "tags": "Others",
+      "unique": 1649779701117,
+      "status": "done",
+      "id": 8
+    }
+  ]
+}

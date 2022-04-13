@@ -1,0 +1,13 @@
+#show{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.showIn{
+ 
+    width: 30%;
+   
+    overflow-y: hidden;
+    height: 700px;
+}

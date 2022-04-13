@@ -1,0 +1,38 @@
+#homenav{
+    display: flex;
+    justify-content: space-around;
+    font-weight: bolder;
+     
+   
+}
+#homenav div:hover{
+    cursor: pointer;
+}
+
+#sidebarmain{
+    width: 95%;
+    
+    height: 800px;
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+}
+
+#sidelef{
+   width: 23%; 
+   border: 1px solid teal;
+    
+}
+#siderig{
+   width: 74%;   
+   border: 1px solid teal;  
+   padding: 10px;
+}
+#logg:hover{
+    cursor: pointer;
+}
+#upp{
+    
+    width: 90%;
+    height: 40%;
+}
