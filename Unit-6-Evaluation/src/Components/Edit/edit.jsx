@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import { useParams } from "react-router-dom"
+import { Link, useParams } from "react-router-dom"
 
 export const Edit = ()=>{
    
@@ -50,6 +50,8 @@ const CityEdit = (e)=>{
 }
 
             return <>
+            <Link to ="/"><button>Home</button></Link>
+            
             <h1>Edit</h1>
             <form onSubmit={CityEdit}>
             <label>City</label><br/>
