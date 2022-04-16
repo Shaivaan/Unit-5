@@ -1,0 +1,160 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "country": "China*"
+    },
+    {
+      "id": 2,
+      "country": "Japan"
+    },
+    {
+      "id": 3,
+      "country": "DR Congo"
+    },
+    {
+      "id": 4,
+      "country": "Russia"
+    },
+    {
+      "id": 5,
+      "country": "Indonesia"
+    },
+    {
+      "id": 6,
+      "country": "Egypt"
+    },
+    {
+      "id": 7,
+      "country": "South Korea"
+    },
+    {
+      "id": 8,
+      "country": "Mexico"
+    },
+    {
+      "id": 9,
+      "country": "United Kingdom"
+    },
+    {
+      "id": 10,
+      "country": "Bangladesh"
+    },
+    {
+      "id": 11,
+      "country": "Peru"
+    },
+    {
+      "id": 12,
+      "country": "Iran"
+    },
+    {
+      "id": 13,
+      "country": "Thailand"
+    },
+    {
+      "id": 14,
+      "country": "Vietnam"
+    },
+    {
+      "id": 15,
+      "country": "Iraq"
+    },
+    {
+      "country": "Pakistan",
+      "id": 16
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "Beijing",
+      "country": "China*",
+      "population": 4200000
+    },
+    {
+      "id": 2,
+      "name": "Tokyo",
+      "country": "Japan",
+      "population": 13921000
+    },
+    {
+      "id": 3,
+      "name": "Kinshasa",
+      "country": "DR Congo",
+      "population": 1269000
+    },
+    {
+      "id": 4,
+      "name": "Moscow",
+      "country": "Russia",
+      "population": 12655050
+    },
+    {
+      "id": 5,
+      "name": "Jakarta",
+      "country": "Indonesia",
+      "population": 10562088
+    },
+    {
+      "id": 6,
+      "name": "Cairo",
+      "country": "Egypt",
+      "population": 10107125
+    },
+    {
+      "id": 7,
+      "name": "Seoul",
+      "country": "South Korea",
+      "population": 9508451
+    },
+    {
+      "id": 8,
+      "name": "Mexico City",
+      "country": "Mexico",
+      "population": 9209944
+    },
+    {
+      "id": 9,
+      "name": "London",
+      "country": "United Kingdom",
+      "population": 9002488
+    },
+    {
+      "id": 10,
+      "name": "Dhaka",
+      "country": "Bangladesh",
+      "population": 8906039
+    },
+    {
+      "id": 11,
+      "name": "Lima",
+      "country": "Peru",
+      "population": 8852000
+    },
+    {
+      "id": 12,
+      "name": "Tehran",
+      "country": "Iran",
+      "population": 8693706
+    },
+    {
+      "id": 13,
+      "name": "Bangkok",
+      "country": "Thailand",
+      "population": 8305218
+    },
+    {
+      "id": 14,
+      "name": "Hanoi",
+      "country": "Vietnam",
+      "population": 8057663
+    },
+    {
+      "name": "Agra",
+      "country": "India",
+      "population": 12000,
+      "id": 16
+    }
+  ]
+}
