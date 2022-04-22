@@ -1,0 +1,13 @@
+#nav{
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    margin: auto;
+}
+#nav button{
+    border-radius: 5px;
+   font-size: 20px;
+   background-color: coral;
+   color: aliceblue; 
+   outline: none;
+}

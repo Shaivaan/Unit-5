@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "Name": "Dog Hostel & Dog Boarding",
+      "City": "Jaipur",
+      "Address": "Shop no 7 and 8, Sodala, Jaipur, Rajasthan 302006",
+      "Capacity": 100,
+      "CPD": 500,
+      "Verified": "true",
+      "Rating": 4.6,
+      "Image": "https://i.cdn.newsbytesapp.com/images/l158_7791577351876.jpg",
+      "id": 1
+    },
+    {
+      "Name": "Pet Hostel",
+      "City": "pur",
+      "Address": "B-57, 58, Dhruv Marg, J P Colony, Sector 4, Vidyadhar Nagar",
+      "Capacity": 150,
+      "CPD": 800,
+      "Verified": "false",
+      "Rating": 4.9,
+      "Image": "https://www.caninecountryclubaz.com/wp-content/uploads/2019/03/shutterstock_140724097-min-1024x683.jpg",
+      "id": 2
+    },
+    {
+      "Name": "Rapivet Pet Healthcare",
+      "City": "ipur",
+      "Address": "Panchyawala Plot no 51 scheme 39 swarnpuri, Meena Wala",
+      "Capacity": 40,
+      "CPD": 600,
+      "Verified": "true",
+      "Rating": 5,
+      "Image": "https://bizimages.withfloats.com/actual/5c7ac58e399c950001b039d4.jpg",
+      "id": 3
+    },
+    {
+      "Name": "SR Dog hostel and kennel",
+      "City": "aipur",
+      "Address": "45 kiran path, Madhyam Marg, Mansarovar",
+      "Capacity": 60,
+      "CPD": 300,
+      "Verified": "false",
+      "Rating": 3.5,
+      "Image": "https://www.petsfolio.com/wp-content/uploads/2022/03/2018-09-18-2-min.jpg",
+      "id": 4
+    },
+    {
+      "Name": "Dog Center",
+      "City": "Agra",
+      "Address": "Wazipurr Agra",
+      "Capacity": "200",
+      "CPD": "800",
+      "Verified": "true",
+      "Rating": "4",
+      "Image": "https://4.imimg.com/data4/KF/GQ/MY-35646590/dog-boarding-service-500x500.jpg",
+      "id": 5
+    }
+  ]
+}
